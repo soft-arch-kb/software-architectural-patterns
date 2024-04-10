@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ms-users
+  datasource:
+    url: jdbc:mysql://localhost:3306/db_users
+    username: root
+    password: root
